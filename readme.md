@@ -10,4 +10,4 @@ DATABASE_PASSWORD=12345
 DATABASE_NAME=nestjs_assigment
 
 ## 2) Set up the database on your local computer
-## 3)npm install && npm run start:dev# test_assignment
+## 3)npm install && npm run start:dev
